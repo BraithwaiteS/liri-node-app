@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/BraithwaiteS/liri-node-app/issues"
   },
-  "homepage": "https://github.com/BraithwaiteS/liri-node-app#readme"
+  "homepage": "https://github.com/BraithwaiteS/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.3.1",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
 }
